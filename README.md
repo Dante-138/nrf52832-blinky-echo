@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/MCU-nRF52832-blue?style=flat-square" alt="nRF52832"/>
+  <img src="https://img.shields.io/badge/RTOS-Zephyr-green?style=flat-square" alt="Zephyr"/>
+  <img src="https://img.shields.io/badge/SDK-nRF_Connect-red?style=flat-square" alt="nRF Connect SDK"/>
+  <img src="https://img.shields.io/badge/Features-LED_+_UART-orange?style=flat-square" alt="LED UART"/>
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="MIT"/>
+</p>
+
 # nRF52832 DK – Testes
 
 Projetos de teste para a placa **nRF52832 DK (PCA10040)** usando nRF Connect SDK v3.0.2 / Zephyr OS.
